@@ -1,0 +1,17 @@
+{
+  "name": "io",
+  "version": "1.0.0",
+  "description": "测试脚本操控新建文件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-gyp": "^10.1.0",
+    "robotjs": "^0.6.0",
+    "typescript": "^5.4.5"
+  }
+}
